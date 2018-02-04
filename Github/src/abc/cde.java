@@ -1,9 +1,9 @@
 package abc;
 
-public class test {
+public class cde {
 
 	public static void main(String[] args) {
-		System.out.println("hello world 123");
+		// TODO Auto-generated method stub
 
 	}
 
